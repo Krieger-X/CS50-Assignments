@@ -1,0 +1,52 @@
+h1, #smile {
+    display: block;
+    text-align: center;
+    margin: auto
+}
+
+#home {
+    font-family: monospace;
+    font-size: 55px;
+    text-emphasis: underline, bold;
+    color: purple;
+}
+
+.games {
+    font-family: Helvetica, sans-serif;
+}
+
+h3.boring:hover {
+    text-align: center;
+    color: red;
+}
+
+th, td {
+    color: blue;
+    padding: 20px;
+}
+
+h4 {
+    color: green;
+    background-color: yellow;
+}
+
+p {
+    font-size: 94px;
+    text-align: center;
+    display: none;
+}
+
+#myImg {
+    display: none;
+    margin: auto;
+}
+
+#myButton {
+    display: flex;
+    margin: auto;
+}
+
+img {
+    display: flex;
+    margin: auto;
+}

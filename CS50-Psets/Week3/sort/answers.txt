@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: When run sorted50000.txt, sort1 is faster than sort3, bubble sort only has to go through n - 1 steps on sorted numbers
+
+sort2 uses: Merge sort
+
+How do you know?: When run random50000.txt/reversed50000.txt using sort2 it is the fastest, merge sort is the fastest sorting method, so sort2 uses merge sort.
+
+sort3 uses: selection sort
+
+How do you know?: When run sorted50000.txt, sort3 is the slowest, selection sort has to go through the same steps even in sorted numbers.
